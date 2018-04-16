@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ff20e6362dbdd618545a98e7cf05eee4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\73e8326ee84ac59c14283c66a6b0ad6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\afb78598b96d1818fd1856958042ce3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\31ade506685057b7ccd90c645300cfc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\01142bc7d9979d5d02e6e0b048ca47d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\64c8a11b5dd41e196fd38c3dfd382e98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d4657357bf33a51c73f783cf73286e13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\007\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1044372c95656a46c975df940a5b79a8\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:5:5-28:19
+	android:label
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:9:9-40
+activity#my.com.durianz.MainActivity
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:16:27-74
+activity#my.com.durianz.Transaction
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:20:19-46
+activity#my.com.durianz.CreateAccount
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:23:9-60
+	android:name
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:23:19-48
+activity#my.com.durianz.EditAccount
+ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:25:9-58
+	android:name
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml:25:19-46
+uses-sdk
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ff20e6362dbdd618545a98e7cf05eee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\ff20e6362dbdd618545a98e7cf05eee4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\73e8326ee84ac59c14283c66a6b0ad6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\73e8326ee84ac59c14283c66a6b0ad6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\afb78598b96d1818fd1856958042ce3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\afb78598b96d1818fd1856958042ce3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\31ade506685057b7ccd90c645300cfc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\31ade506685057b7ccd90c645300cfc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\01142bc7d9979d5d02e6e0b048ca47d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\01142bc7d9979d5d02e6e0b048ca47d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\64c8a11b5dd41e196fd38c3dfd382e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\64c8a11b5dd41e196fd38c3dfd382e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d4657357bf33a51c73f783cf73286e13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\007\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\d4657357bf33a51c73f783cf73286e13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\007\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1044372c95656a46c975df940a5b79a8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\007\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1044372c95656a46c975df940a5b79a8\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\007\AndroidStudioProjects\Durianz\app\src\main\AndroidManifest.xml

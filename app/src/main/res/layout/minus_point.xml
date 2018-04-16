@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="@color/durianz_green"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+        <LinearLayout
+            android:id="@+id/transaction_customer_detail_points"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp"
+            android:orientation="vertical">
+
+            <TextView android:text="Available Points (DZP):  " android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/durianz_white"
+                android:textSize="18sp"
+                />
+
+            <TextView
+                android:id="@+id/transaction_customer_available_points_text"
+                android:text="-" android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textColor="@color/durianz_white"
+                android:textSize="18sp"
+                />
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/transaction_customer_detail_spending"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:orientation="vertical">
+
+        <TextView android:text="Spent Points (DZP):  " android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/durianz_white"
+            android:textSize="18sp"
+            />
+
+        <EditText android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gray_rounded_square_textinput"
+            android:inputType="numberDecimal"
+            android:id="@+id/transaction_customer_redemption"
+            android:hint="0.00"
+            />
+
+    </LinearLayout>
+
+
+        <Button
+            android:id="@+id/redeem_points"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Redeem"/>
+
+    </LinearLayout>

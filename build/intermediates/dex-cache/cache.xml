@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-273eec7bb4b443bfdf45695f2c94c71856f08697.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-2bb1213d59a345922097179a219936c62eb7dbcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-26e38f4e76fd9fb72a045921b021eee468043db6.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-8b57ad73c355d4aab6d37fa003a8ebe435d36c95.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-a3c6f95357fb849a56fb2d9ce94044692d20265d.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-13509ab40d6211c3c416f4e03f44724ae706d9d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-1186f065d77750dc476fc4c12f76b5b91745c95d.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-66ec852cb7079aebe75a2af8986bca26d2272ac8.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\classes-924a4ba7df15e04c91bb009b41482268a32c9005.jar" />
+    </item>
+    <item
+        jar="C:\Users\007\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\007\AndroidStudioProjects\Durianz\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1-88c5eb3bb86ba16986792f0ee7c672af32f9d1e1.jar" />
+    </item>
+
+</items>

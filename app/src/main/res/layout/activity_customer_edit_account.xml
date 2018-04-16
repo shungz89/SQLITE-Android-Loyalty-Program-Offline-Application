@@ -1,0 +1,164 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="@color/durianz_green"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/durianz_white"
+        android:text="Select an Account to edit"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <ListView
+        android:id="@+id/customer_listview"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        />
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/transaction_customer_id"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="0dp"-->
+        <!--android:layout_marginTop="8dp"-->
+        <!--android:layout_marginBottom="8dp"-->
+        <!--android:orientation="vertical"-->
+        <!--android:layout_weight="0.5"-->
+        <!--&gt;-->
+
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center"-->
+            <!--android:text="Key in Customer ID"-->
+            <!--android:textColor="@color/durianz_white"-->
+            <!--android:layout_marginTop="8dp"-->
+            <!--android:layout_marginBottom="16dp"-->
+            <!--android:textSize="20sp"/>-->
+
+        <!--<EditText-->
+            <!--android:id="@+id/edit_account_customer_id"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@drawable/gray_rounded_square_textinput"-->
+            <!--android:hint="Customer ID"-->
+            <!--android:layout_marginTop="8dp"-->
+            <!--android:layout_marginBottom="8dp"-->
+            <!--android:textSize="18sp"-->
+            <!--android:singleLine="true"-->
+            <!--android:digits="0123456789"-->
+            <!--android:inputType="number"-->
+            <!--/>-->
+
+        <!--<Button-->
+            <!--android:id="@+id/edit_account_page_search_button"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Search"/>-->
+
+    <!--</LinearLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edit_account_customer_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gray_rounded_square_textinput"
+        android:hint="Full Name"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/durianz_user_icon"
+        android:drawablePadding="8dp"
+        android:singleLine="true"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ "
+        />
+
+    <EditText
+        android:id="@+id/edit_account_customer_ic_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gray_rounded_square_textinput"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:inputType="number"
+        android:hint="Ic No."
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/durianz_card_icon"
+        android:drawablePadding="8dp"
+        android:singleLine="true"
+
+        />
+
+    <EditText
+        android:id="@+id/edit_account_customer_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gray_rounded_square_textinput"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/durianz_email_icon"
+        android:drawablePadding="8dp"
+        android:singleLine="true"
+
+        />
+
+    <EditText
+        android:id="@+id/edit_account_customer_mobile_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/gray_rounded_square_textinput"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:hint="Mobile No."
+        android:inputType="phone"
+        android:textSize="18sp"
+        android:drawableLeft="@drawable/durianz_mobile_icon"
+        android:drawablePadding="8dp"
+        android:singleLine="true"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/transaction_buttons"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        >
+
+
+        <Button
+            android:id="@+id/edit_account_page_delete_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Delete"/>
+
+        <Button
+            android:id="@+id/edit_account_page_save_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="Save"/>
+
+    </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

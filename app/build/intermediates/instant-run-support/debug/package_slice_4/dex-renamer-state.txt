@@ -1,0 +1,4 @@
+#Tue Mar 13 00:53:30 SGT 2018
+base.0=C\:\\Users\\007\\AndroidStudioProjects\\Durianz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\80
+path.0=classes.dex
+renamed.0=classes.dex
